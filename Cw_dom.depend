@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1558812217 source:c:\cw_programowanie\cw_dom\main.c
+	"Operacje_lista.h"
+	"Wczyt_Odczyt_lista.h"
+	"Edycja.h"
+	"Wyszukiwanie.h"
+	"Export_CSV.h"
+	"Sortowanie.h"
+
+1558809147 source:c:\cw_programowanie\cw_dom\operacje_lista.c
+	"Operacje_lista.h"
+
+1558807514 c:\cw_programowanie\cw_dom\operacje_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558809283 c:\cw_programowanie\cw_dom\wczyt_odczyt_lista.h
+	"Operacje_lista.h"
+
+1558809338 source:c:\cw_programowanie\cw_dom\wczyt_odczyt_lista.c
+	"Wczyt_Odczyt_lista.h"
+
+1558811341 source:c:\cw_programowanie\cw_dom\edycja.c
+	"Edycja.h"
+
+1558811319 c:\cw_programowanie\cw_dom\edycja.h
+	"Operacje_lista.h"
+
+1558811690 c:\cw_programowanie\cw_dom\wyszukiwanie.h
+	"Operacje_lista.h"
+	"Edycja.h"
+
+1558811622 source:c:\cw_programowanie\cw_dom\wyszukiwanie.c
+	"Wyszukiwanie.h"
+
+1558811934 c:\cw_programowanie\cw_dom\export_csv.h
+	"Operacje_lista.h"
+
+1558811922 source:c:\cw_programowanie\cw_dom\export_csv.c
+	"Export_CSV.h"
+
+1558812111 source:c:\cw_programowanie\cw_dom\sortowanie.c
+	"Sortowanie.h"
+
+1558812183 c:\cw_programowanie\cw_dom\sortowanie.h
+	"Operacje_lista.h"
+
+1559067400 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\export_csv.c
+	"Export_CSV.h"
+
+1558811934 c:\users\barte\onedrive\pulpit\pp2\cw_dom\export_csv.h
+	"Operacje_lista.h"
+
+1559067400 c:\users\barte\onedrive\pulpit\pp2\cw_dom\operacje_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558812217 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\main.c
+	"Operacje_lista.h"
+	"Wczyt_Odczyt_lista.h"
+	"Edycja.h"
+	"Wyszukiwanie.h"
+	"Export_CSV.h"
+	"Sortowanie.h"
+
+1558809283 c:\users\barte\onedrive\pulpit\pp2\cw_dom\wczyt_odczyt_lista.h
+	"Operacje_lista.h"
+
+1559065445 c:\users\barte\onedrive\pulpit\pp2\cw_dom\edycja.h
+	"Operacje_lista.h"
+
+1558811690 c:\users\barte\onedrive\pulpit\pp2\cw_dom\wyszukiwanie.h
+	"Operacje_lista.h"
+	"Edycja.h"
+
+1558812183 c:\users\barte\onedrive\pulpit\pp2\cw_dom\sortowanie.h
+	"Operacje_lista.h"
+
+1559068641 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\operacje_lista.c
+	"Operacje_lista.h"
+
+1559068872 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\sortowanie.c
+	"Sortowanie.h"
+
+1559067401 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\wczyt_odczyt_lista.c
+	"Wczyt_Odczyt_lista.h"
+
+1559148877 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\wyszukiwanie.c
+	"Wyszukiwanie.h"
+
+1559680814 source:c:\users\barte\onedrive\pulpit\pp2\cw_dom\edycja.c
+	"Edycja.h"
+
+1559748850 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\export_csv.c
+	"Export_CSV.h"
+
+1558811934 c:\cw_programowanie\baza albumow muzycznych\cw_dom\export_csv.h
+	"Operacje_lista.h"
+
+1559740177 c:\cw_programowanie\baza albumow muzycznych\cw_dom\operacje_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558812217 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\main.c
+	"Operacje_lista.h"
+	"Wczyt_Odczyt_lista.h"
+	"Edycja.h"
+	"Wyszukiwanie.h"
+	"Export_CSV.h"
+	"Sortowanie.h"
+
+1558809283 c:\cw_programowanie\baza albumow muzycznych\cw_dom\wczyt_odczyt_lista.h
+	"Operacje_lista.h"
+
+1559065445 c:\cw_programowanie\baza albumow muzycznych\cw_dom\edycja.h
+	"Operacje_lista.h"
+
+1558811690 c:\cw_programowanie\baza albumow muzycznych\cw_dom\wyszukiwanie.h
+	"Operacje_lista.h"
+	"Edycja.h"
+
+1558812183 c:\cw_programowanie\baza albumow muzycznych\cw_dom\sortowanie.h
+	"Operacje_lista.h"
+
+1559748051 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\operacje_lista.c
+	"Operacje_lista.h"
+
+1559748242 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\sortowanie.c
+	"Sortowanie.h"
+
+1559748319 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\wczyt_odczyt_lista.c
+	"Wczyt_Odczyt_lista.h"
+
+1559748585 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\wyszukiwanie.c
+	"Wyszukiwanie.h"
+
+1559748971 source:c:\cw_programowanie\baza albumow muzycznych\cw_dom\edycja.c
+	"Edycja.h"
+
+1558812217 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\main.c
+	"Operacje_lista.h"
+	"Wczyt_Odczyt_lista.h"
+	"Edycja.h"
+	"Wyszukiwanie.h"
+	"Export_CSV.h"
+	"Sortowanie.h"
+
+1559764097 c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\operacje_lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1558809283 c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\wczyt_odczyt_lista.h
+	"Operacje_lista.h"
+
+1559065445 c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\edycja.h
+	"Operacje_lista.h"
+
+1558811690 c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\wyszukiwanie.h
+	"Operacje_lista.h"
+	"Edycja.h"
+
+1558811934 c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\export_csv.h
+	"Operacje_lista.h"
+
+1558812183 c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\sortowanie.h
+	"Operacje_lista.h"
+
+1559756023 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\export_csv.c
+	"Export_CSV.h"
+
+1559764097 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\operacje_lista.c
+	"Operacje_lista.h"
+
+1559764095 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\sortowanie.c
+	"Sortowanie.h"
+
+1559764096 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\wczyt_odczyt_lista.c
+	"Wczyt_Odczyt_lista.h"
+
+1559764096 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\wyszukiwanie.c
+	"Wyszukiwanie.h"
+
+1559765408 source:c:\baza albumow muzycznych\baza albumow muzycznych\baza albumow muzycznych\cw_dom\edycja.c
+	"Edycja.h"
+
